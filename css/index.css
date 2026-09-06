@@ -1,0 +1,49 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	font-size: 1.2em;
+	font-weight: 400;
+	font-family: sans-serif;
+	background-color: #343536;
+	color: white;
+}
+header {
+	border-bottom: 3px solid white;
+	text-align: center;
+	padding: 10vw;
+	margin-bottom: 20px;
+	background-color: black;
+}
+.hero {
+	margin-bottom: 10px;
+	text-align: center;
+	background-color: #454647;
+}
+.launcher {
+	background-color: #454647;
+	display: flex;
+	flex-wrap: flex;
+}
+.launcher h2 {
+	width: 100;
+	display: block;
+}
+.launcher article {
+	width: 30%;
+	background-color: white;
+	color: black;
+	text-align: center;
+	padding: 10px;
+}
+footer {
+	padding: 20px;
+	border-top: 3px solid white;
+	margin-top: 20px;
+}
+footer a {
+	text-decoration: none;
+	color: #c7c7c7;
+}
