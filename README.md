@@ -6,3 +6,4 @@ Source Code for Magimals Games
 ![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
 ![Pug](https://img.shields.io/badge/pug-AA7722?style=for-the-badge&logo=pug&logoColor=white)
+![CSS](https://img.shields.io/badge/css-FFFFFF?style=for-the-badge&logo=CSS&logoColor=purple)
