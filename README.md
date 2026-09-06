@@ -1,5 +1,10 @@
 # Magimals Games
-Source Code for Magimals Games
+🫵🏻This is a Nuxt project
+
+This repository holds source code for Magimals games.
+## Branches
+- `main`: all the code is stored here
+- `gh-pages`: static HTML to deploy, compiled by Nuxt.
 ## Made With
 ![Nuxt](https://img.shields.io/badge/nuxt-000000?style=for-the-badge&logo=nuxt&logoColor=22FFFF)
 ![TypeScript](https://img.shields.io/badge/typescript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=blue)
