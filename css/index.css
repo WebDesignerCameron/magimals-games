@@ -21,9 +21,11 @@ header {
 	margin-bottom: 10px;
 	text-align: center;
 	background-color: #454647;
+	padding: 20px;
 }
 .launcher {
 	background-color: #454647;
+	padding: 20px;
 }
 .launcher h2 {
 	width: 100%;
