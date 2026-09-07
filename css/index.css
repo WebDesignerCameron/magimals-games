@@ -24,8 +24,6 @@ header {
 }
 .launcher {
 	background-color: #454647;
-	display: flex;
-	flex-wrap: flex;
 }
 .launcher h2 {
 	width: 100%;
@@ -37,6 +35,7 @@ header {
 	color: black;
 	text-align: center;
 	padding: 10px;
+	display: inline;
 }
 footer {
 	padding: 20px;
