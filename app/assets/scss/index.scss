@@ -1,0 +1,61 @@
+/* Declare Variables */
+$font_size: 1.2rem;
+$font_family: "Verdana", "Geneva", "Calibri", sans-serif;
+$font_weight: 400;
+$color1: #353637;
+$color2: #454647;
+$color3: #c7c7c7;
+$border_value: 3px solid white;
+$margin_value: 20px;
+/* Declare Styles */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	font-size: $font_size;
+	font-family: $font_family;
+	font-weight: $font_weight;
+	background: $color1;
+	color: white;
+	header {
+		border-bottom: $border_value;
+		padding: 15px;
+		text-align: center;
+		margin-bottom: $margin_value;
+		background: black;
+	}
+	main {
+		.hero {
+			padding: 25px;
+			background: $color2;
+			text-align: center;
+			margin-bottom: $margin_value;
+		}
+		.launcher {
+			padding: 25px;
+			background: $color2;
+			h2 {
+				margin-bottom: 15px;
+			}
+			article {
+				display: inline;
+				width: 30%;
+				background: white;
+				color: black;
+				padding: 10px;
+				text-align: center;
+			}
+		}
+	}
+	footer {
+		margin-top: $margin_value;
+		border-top: $border_value;
+		padding: 25px;
+		a {
+			color: $color3;
+			text-decoration: none;
+		}
+	}
+}

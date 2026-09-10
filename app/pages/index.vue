@@ -1,6 +1,6 @@
 <template>
     <IndexPage />
 </template>
-<style lang='css'>
-    @import "../../css/index.css";
+<style lang='scss'>
+    @use "/assets/scss/index.scss";
 </style>
