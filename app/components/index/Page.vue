@@ -1,8 +1,7 @@
-<template>
-    <IndexHeader />
-    <main>
-        <IndexHero />
-        <IndexLauncher />
-    </main>
-    <IndexFooter />
+<template lang="pug">
+    IndexHeader
+    main
+        IndexHero
+        IndexLauncher
+    IndexFooter
 </template>
