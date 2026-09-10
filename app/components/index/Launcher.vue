@@ -1,6 +1,6 @@
-<template>
-    <section class="launcher">
-        <h2>Games</h2>
+<template lang="pug">
+    section(class="launcher")
+        h2
+            Games
         No games available currently.
-    </section>
 </template>
