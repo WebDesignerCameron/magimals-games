@@ -1,0 +1,30 @@
+name: Update GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "/app/**"
+
+jobs:
+  run-conditional-job:
+    if: github.actor == "WebDesignerCameron"
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Setup and Cleanup
+        run: |
+          rm -rf dist .output docs/**
+        shell: bash
+      - name: Generate and Move
+        run: |
+          npx nuxt generate
+          mv .output/public/** ./docs/
+        shell: bash
+      - name: Commit and Push
+        run: |
+          git add .
+          git commit -m "gh-pages: update"
+          git push origin main
+        shell: bash
