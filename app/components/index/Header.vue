@@ -1,5 +1,7 @@
-<template lang="pug">
-    header
-        h1
+<template>
+    <header>
+        <h1>
             Magimals Games
+        </h1>
+    </header>
 </template>
