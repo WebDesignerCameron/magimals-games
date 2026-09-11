@@ -1,9 +1,11 @@
-<template lang="pug">
-    section(class="hero")
-        h2
+<template>
+    <section class="hero">
+        <h2>
             Magimals Games
-        p
+        </h2>
+        <p>
             This website is a Magimals launcher for
             different games made by the Magimals
             company.
+        </p>
 </template>

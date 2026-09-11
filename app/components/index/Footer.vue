@@ -1,4 +1,4 @@
-<template lang="pug">
+<template>
     <footer>
         <a href="https://github.com/WebDesignerCameron">
             <sup>
