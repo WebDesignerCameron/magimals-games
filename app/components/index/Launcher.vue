@@ -4,4 +4,5 @@
             Games
         </h2>
         No games available currently.
+    </section>
 </template>

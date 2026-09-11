@@ -8,4 +8,5 @@
             different games made by the Magimals
             company.
         </p>
+    </section>
 </template>
