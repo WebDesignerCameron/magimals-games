@@ -6,7 +6,9 @@
         <p>
             This website is a Magimals launcher for
             different games made by the Magimals
-            company.
+            company. There are no current games as
+            the code is being moved from another place
+            to here at this moment.
         </p>
     </section>
 </template>
