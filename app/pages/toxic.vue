@@ -1,3 +1,12 @@
+<script setup>
+useHead({
+  script: [
+    { 
+      src: '/js/load.js'
+    }
+  ]
+})
+</script>
 <template>
     <ToxicGrid />
 </template>
