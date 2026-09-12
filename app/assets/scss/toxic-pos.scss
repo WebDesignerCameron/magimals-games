@@ -1,0 +1,25 @@
+.container-grid {
+	position: relative;
+	display: inline-block;
+	width: 100%;
+}
+.background-grid img {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+@for $n from 1 through 100 {
+	@for $m from 1 through 100 {
+		.pos-#{$n}-##{$m} {
+			position: absolute;
+			/* y axis */
+			top: $m;
+			/* x axis */
+			left: $n;
+			/* center */
+			transform: translate(-50%, -50%);
+			/* box */
+			box-sizing: border-box;
+		}
+	}
+}
