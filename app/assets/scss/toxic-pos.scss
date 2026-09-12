@@ -10,7 +10,7 @@
 }
 @for $n from 1 through 100 {
 	@for $m from 1 through 100 {
-		.pos-#{$n}-##{$m} {
+		.pos-#{$n}-#{$m} {
 			position: absolute;
 			/* y axis */
 			top: $m;
