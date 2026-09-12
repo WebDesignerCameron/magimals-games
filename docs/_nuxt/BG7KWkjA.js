@@ -1,0 +1,1 @@
+import{d as e,o as t,t as n,u as r}from"#entry";var i={};function a(n,i){let a=e(`ToxicGrid`);return r(),t(a)}var o=n(i,[[`render`,a]]);export{o as default};
