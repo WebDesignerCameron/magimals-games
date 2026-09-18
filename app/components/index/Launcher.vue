@@ -4,7 +4,10 @@
             Games
         </h2>
         <br>
-        No games available currently(still migrating code
-        from the <code>src</code> repository).
+        <article>
+            <h3>Magimals Toxic</h3>
+            <IndexWarning />
+            Version: Beta 1.0 Snapshot 1 TSB
+        </article>
     </section>
 </template>
