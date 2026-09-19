@@ -10,5 +10,5 @@ This repository holds source code for Magimals games.
 ![TypeScript](https://img.shields.io/badge/typescript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=blue)
 ![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
-![Pug](https://img.shields.io/badge/pug-AA7722?style=for-the-badge&logo=pug&logoColor=white)
+![Pug](https://img.shields.io/badge/pug_(but_only_in_the_past)-AA7722?style=for-the-badge&logo=pug&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-FFFFFF?style=for-the-badge&logo=CSS&logoColor=purple)
