@@ -36,21 +36,27 @@ body {
 			margin-bottom: $margin_value;
 		}
 		.launcher {
+			display: grid;
+			grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+			gap: 20px;
 			padding: 25px;
 			background: $color2;
 			h2 {
-				margin-bottom: 15px;
+				grid-column: 1 / -1;
+				margin-bottom: 0;
 			}
 			article {
-				display: inline;
-				width: 30%;
+				display: block;
+				width: auto;
 				background: white;
 				color: black;
-				padding: 10px;
+				padding: 15px;
 				text-align: center;
+				border-radius: 4px;
+				box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
 				.warning {
-					background-color: yellow;
-					color: white;
+					background-color: #fff3cd;
+					color: #664d03;
 					border-left: 5px solid orange;
 					padding: 10px;
 				}
