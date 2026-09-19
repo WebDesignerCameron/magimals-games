@@ -11,5 +11,6 @@ useHead({
     <ToxicGrid />
 </template>
 <style lang="scss">
-    @use "/assets/scss/toxic-pos.scss";
+    /* @use "/assets/scss/toxic-pos.scss"; */
+    /* Uncomment this when needed */
 </style>
