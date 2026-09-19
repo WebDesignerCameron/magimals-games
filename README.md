@@ -12,3 +12,6 @@ This repository holds source code for Magimals games.
 ![JavaScript](https://img.shields.io/badge/javascript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
 ![Pug](https://img.shields.io/badge/pug_(but_only_in_the_past)-AA7722?style=for-the-badge&logo=pug&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-FFFFFF?style=for-the-badge&logo=CSS&logoColor=purple)
+## Shoutout
+Shoutout to [Lemon](https://github.com/ahoylemon) for the Hex'd background on his
+[BG2COOL website](https://ahoylemon.github.io/BG2COOL).
