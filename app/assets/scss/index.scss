@@ -29,7 +29,9 @@ body {
 	main {
 		.hero {
 			padding: 25px;
-			background: $color2;
+            background-image:url("https://ahoylemon.github.io/BG2COOL//patterns/random/1049.png");
+            background-size: 5%;
+            background-position: 100% 100%;
 			text-align: center;
 			margin-bottom: $margin_value;
 		}
