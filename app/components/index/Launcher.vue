@@ -8,7 +8,7 @@
             <h3>Magimals Toxic</h3>
             <IndexWarning />
             Version: Beta 1.0 Snapshot 1 TSB<br>
-            Link: <a href="/toxic/">Here</a>
+            Link: <a href="/magimals-games/toxic/">Here</a>
         </article>
     </section>
 </template>
